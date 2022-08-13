@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.links {
+	margin: 50px 0;
+}

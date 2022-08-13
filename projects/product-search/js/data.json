@@ -1,0 +1,160 @@
+{
+	"data": {
+		"allEpProduct": {
+			"nodes": [
+				{
+					"attributes": {
+						"name": "AVOCADO PRINT BEESWAX WRAPS PACK OF 3 SMALL 7X7, MED 10X10, LARGE 10X16",
+						"description": "THE PERFECT GREEN ALTERNATIVE TO PLASTIC WRAP FOR FOOD STORAGE. USE TO COVER A DISH OR FOOD ITEM. THE WRAPS STICK NATURALLY! WASH ANDS RESUE UP TO 150X!",
+						"sku": "MELIWRAPS_Wraps",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Meli Wraps",
+								"product_tags": "All Natural; Locally Sourced/Made; Kid Friendly;  Young Adult Friendly; Aging Adult Friendly; "
+							},
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "The Anti-Anxiety Notebook",
+						"description": "<p>Designed by therapists using Cognitive Behavioral Therapy, this notebook helps you track your emotions based on entries. Become more aware of thought patterns, and grow over time specifically to reduce anxiety and manage stress.</p>\n",
+						"sku": "THERAPYNOTEBOOKS_9781735084602",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Therapy Notebooks",
+								"product_tags": null
+							},
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "Walnut Standing Desk (White)",
+						"description": "<p>Hand-oiled walnut veneer top sits on a sturdy steel frame that raises and lowers 25 to 45 inches with the touch of a button. Desk comes with wireless charging, tech power port with two USB and three power outlets, and a 10\"x27\" lucite shelf. \n",
+						"sku": "CHASSIE_White_Standing_Desk_Frame",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Chassie",
+								"product_tags": "Vegetarian; Vegan; Cruelty-free; Locally Sourced/Made; Young Adult Friendly; Aging Adult Friendly"
+							},
+							"products_carousel_": null
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "Women's Shift",
+						"description": "<p>The Shift helps you quickly and silently combat anxiety by slowing your breathing. It's a functional, elegant piece of jewelry that you wear against your heart, both as a tool and gentle reminder to protect your wellbeing. The necklace is consciously made using recycled medical grade stainless steel with precious metal colors baked through so the piece will last. The circumference is measured and tested to deliver the ideal exhale to help you feel calm.</p>\n",
+						"sku": "KOMUSO_W",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Komuso Design",
+								"product_tags": "Cruelty-free; Young Adult Friendly; Aging Adult Friendly"
+							},
+							"products_carousel_": null
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "Vita+Spray",
+						"description": "<p>Hand Sanitizer Spray 99.9% Effective Against Germs<br><br>Designed to serve as an everyday essential in your life.<br><br>With a blend of Vitamin E, Peppermint Oil, Aloe Vera, Lavender and Ethyl Alcohol, this <br>hand sanitizer helps to decrease the amount of bacteria on the skin, while keeping the skin <br>moisturized and replenished.  Your hands will be left <br>feeling cleansed and nourished after just one use.\n",
+						"sku": "VIVIVS100",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Vivi Naturals",
+								"product_tags": "All Natural; Plant Based;  Non-GMO;  Vegan; Cruelty-free; Locally Sourced/Made;  Young Adult Friendly; Aging Adult Friendly; "
+							},
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "movr",
+						"description": "<p><br><br>movr is an exercise prescription app offering mobility, stretches, and strength routines that have proven to increase functional movement and improve how your body feels. <br><br>Decrease hip tension, back aches, and relax your neck. Touch your toes, pick up your kids, or start your workday by moving your body in a free and functional way. \n",
+						"sku": "MOVR_",
+						"extensions": {
+							"products_product_details_": null,
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "Atlas Backpack",
+						"description": "The Atlas is the ideal backpack that goes with you on every work venture or weekend adventure. Created for optimal functionality, with an exterior foam-padded laptop compartment and five interior pockets to keep your life organized. The sleek design matched with premium full grain Ethiopian leather makes the Atlas a fundamental piece to your collection and built to last.",
+						"sku": "PARKERCLAY_ATB001",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Parker Clay",
+								"product_tags": null
+							},
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "Sustainable Cactus Soil",
+						"description": "This cactus soil mix was designed to allow the roots of your plant to get exactly what they need. The rocky substrate lets water drain easily, the nutrient charged biochar gives your plant a growth boost and the fir bark holds just a little bit of extra water in case you miss a watering.\n",
+						"sku": "DENSOIL_CM-01",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "DEN Soils",
+								"product_tags": "All Natural; Vegetarian; Cruelty-free; Locally Sourced/Made; Young Adult Friendly; Aging Adult Friendly; "
+							},
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "FLÎKR Fire",
+						"description": "FLÎKR Fire® is the original isopropyl alcohol personal fireplace.™ ",
+						"sku": "FLIKR_FF",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "FLÎKR Fire",
+								"product_tags": "Young Adult Friendly; Aging Adult Friendly"
+							},
+							"products_carousel_": {
+								"new_to_maavee": true
+							}
+						}
+					}
+				},
+				{
+					"attributes": {
+						"name": "Bamboo Brush 2-Pack",
+						"description": "<p>An earth-friendly update to the classic manual toothbrush. Using sustainable, compostable bamboo and gently tapered soft bristles, this Bamboo Brush gives you a great clean with a natural feel.</p>\n",
+						"sku": "GOODWELL_bamboo-brush-2-packBlack_Green-White_GreenAlmond6-month_subscription",
+						"extensions": {
+							"products_product_details_": {
+								"product_brand_name": "Goodwell",
+								"product_tags": "Plant Based; Vegan; Cruelty-free; Young Adult Friendly; Aging Adult Friendly"
+							},
+							"products_carousel_": null
+						}
+					}
+				}
+			]
+		}
+	},
+	"extensions": {}
+}
