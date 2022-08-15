@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600,400,300,300italic);
+
+.frame {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 400px;
+	height: 400px;
+	margin-top: -200px;
+	margin-left: -200px;
+	background-color: #4ab7de;
+	border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0, 0, 0, 0.1);
+	overflow: hidden;
+	color: #fff;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.center {
+	box-sizing: border-box;
+	padding: 0 30px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100%;
+}
+
+.quote {
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 35px;
+	position: relative;
+}
+
+.quote::before {
+	content: '”';
+	font-family: Arial;
+	font-size: 250px;
+	left: -25px;
+	opacity: 0.4;
+	position: absolute;
+	top: 55px;
+}
+
+.tooltip-container {
+	position: absolute;
+}
+
+.tooltip-subject {
+	background-color: rgba(0, 0, 0, 0.35);
+	padding: 0 10px;
+}
+
+.author {
+	font-size: 16px;
+	font-style: italic;
+}
