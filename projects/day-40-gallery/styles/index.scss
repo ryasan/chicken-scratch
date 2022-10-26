@@ -43,6 +43,18 @@ $size: 128px;
 	transition: all 0.5s;
 	width: calc((100% / 3) - 2.5px);
 	height: calc((100% / 3) - 2.5px);
+
+	@for $i from 0 through 2 {
+		@for $j from 0 through 2 {
+			&-#{($i * 3) + $j + 1} {
+				// compute placement using 1/3 of the container size
+				// and a little bit more to leave a gutter
+				left: calc((100% / 3 * #{$j}) + (#{$j} * 1.5px));
+				top: calc((100% / 3 * #{$i}) + (#{$i} * 1.5px));
+			}
+		}
+	}
+	
 }
 
 .image.active {
@@ -60,15 +72,4 @@ $size: 128px;
 .image.hidden {
 	opacity: 0;
 	pointer-events: none;
-}
-
-@for $i from 0 through 2 {
-	@for $j from 0 through 2 {
-		.image-#{($i * 3) + $j + 1} {
-			// compute placement using 1/3 of the container size
-			// and a little bit more to leave a gutter
-			left: calc((100% / 3 * #{$j}) + (#{$j} * 1.5px));
-			top: calc((100% / 3 * #{$i}) + (#{$i} * 1.5px));
-		}
-	}
 }
